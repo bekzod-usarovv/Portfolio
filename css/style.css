@@ -1,0 +1,42 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.nav-login a:nth-child(2){
+  margin: 0 15px;
+}
+
+#baner-img{
+  background-image:  radial-gradient(ellipse, rgba(9, 1, 3, 0.798),rgba(1, 1, 1, 0.716),rgba(40, 5, 168, 0.593)), url(../image/logo/yigitlar\ uchun\ fon\ \(@ITMastersUz\)\ \(1\).jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.baner-text{
+    left: 0;
+    right: 0;
+    position: absolute;
+    top: 40%;
+    text-align: center;
+}
+.baner-text .media-web a{
+  color: #ffffff;
+  font-size: 1.5rem;
+  padding: 0 5px;
+}
+.baner-text h1{
+  color: #fff;
+  font-size: 3rem;
+}
+.baner-text h4{
+  color: #fff;
+}
+.typed{
+  color: #fff;
+  padding-bottom: 4px;
+  letter-spacing: 1px;
+  border-bottom: 3px solid #149ddd;
+}
