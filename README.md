@@ -1,3 +1,3 @@
 # Portfolio
 Potrfolio website
-HTML, CSS, JS
+HTML, CSS, Bootstrapt, JS
